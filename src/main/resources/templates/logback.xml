@@ -1,0 +1,9 @@
+<configuration>
+    <!-- Other logger configurations -->
+
+    <logger name="org.springframework.security.authentication" level="DEBUG" />
+
+    <!-- Other logger configurations -->
+
+    <!-- Appender and other configurations -->
+</configuration>
